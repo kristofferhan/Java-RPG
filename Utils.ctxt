@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=int\ cleanNegative(int)
+comment0.text=\n\ Metode\ for\ \u00E5\ rense\ et\ negativ\ til\ til\ 0\n\ @param\ value\ et\ tall\n\ @return\ 0\ hvis\ value\ <\ 0,\ hvis\ ikke\ tallet\ selv\n
+comment1.params=string
+comment1.target=java.lang.String\ checkString(java.lang.String)
+comment1.text=\n\ Metode\ for\ \u00E5\ sjekke\ at\ en\ string\ ikke\ er\ tom.\n\ @param\ string\ stringen\ vi\ vil\ sjekke\n\ @return\ unspecified\ hvis\ stringen\ er\ tom,\ hvis\ ikke\ verdien\ til\ stringen.\n
+numComments=2

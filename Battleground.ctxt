@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=player\ monsters
+comment0.target=Battleground(Player,\ java.util.ArrayList)
+comment0.text=\n\ Oppretter\ en\ Battleground\ med\ en\ player,\ en\ liste\ med\ monstre\ og\ et\ tilfeldig\ monster.\n\ @param\ player\ Spilleren\ som\ skal\ inn\ i\ kamp.\n
+comment1.params=
+comment1.target=void\ attack()
+comment1.text=\n\ Starter\ en\ kamp\ og\ kaller\ metoder\ under\ kampen.\n
+comment2.params=
+comment2.target=void\ newRound()
+comment2.text=\n\ Metode\ som\ h\u00E5ndterer\ en\ runde.\ Spilleren\ angriper\ monsteret\ og\ monsteret\ angriper\n\ tilbake\ hvis\ det\ fortsatt\ er\ i\ live.\n
+comment3.params=
+comment3.target=void\ endAttack()
+comment3.text=\n\ Metode\ som\ h\u00E5ndterer\ slutten\ av\ en\ runde.\ Hvis\ spilleren\ fortsatt\ lever\ og\ monsteret\ er\ d\u00F8dt,\ vinner\ spilleren\ 50\ gull.\ \n\ Spilleren\ kan\ deretter\ velge\ \u00E5\ sl\u00E5ss\ mot\ et\ nytt\ monster\ eller\ avslutte\ kampen.\n
+comment4.params=
+comment4.target=void\ run()
+comment4.text=\n\ Metode\ som\ h\u00E5ndterer\ en\ flukt\ fra\ kampen.\ Trekker\ fra\ 50\ gull\ fra\ spilleren.\ \n
+comment5.params=
+comment5.target=void\ printWelcome()
+comment5.text=\n\ Printer\ ut\ en\ velkomst\ p\u00E5\ starten\ av\ en\ kamp.\n
+comment6.params=
+comment6.target=Monster\ selectRandomMonster()
+comment6.text=\n\ Velger\ et\ tilfeldig\ monster\ fra\ listen\ med\ monstre\ og\ fjerner\ det\ fra\ listen.\n\ @return\ et\ tilfeldig\ monster.\n
+numComments=7
